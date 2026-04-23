@@ -14,8 +14,6 @@
 
 📌 Projetos em destaque
 
-- [API REST com Spring Boot](LINK_DO_REPO)
-- [Sistema de pedidos (Java)](LINK_DO_REPO)
 - [DirTools (recursão / DFS)](https://github.com/pedromzanette/dirtools-java.git)
 
 ---
