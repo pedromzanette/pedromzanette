@@ -16,6 +16,6 @@
 
 - [API REST com Spring Boot](LINK_DO_REPO)
 - [Sistema de pedidos (Java)](LINK_DO_REPO)
-- [DirTools (recursão / DFS)](LINK_DO_REPO)
+- [DirTools (recursão / DFS)]([LINK_DO_REPO](https://github.com/pedromzanette/dirtools-java.git))
 
 ---
