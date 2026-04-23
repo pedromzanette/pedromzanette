@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Pedro!
 
-<!--
-**pedromzanette/pedromzanette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (Feevale)  
+💻 Focado em desenvolvimento Back-end  
+🚀 Buscando primeira oportunidade como Dev  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- Java
+- Spring Boot
+- PostgreSQL
+- Git / GitHub
+
+---
+
+## 📌 Projetos em destaque
+- API REST com Spring Boot
+- Sistema de pedidos (Java)
+- DirTools (recursão / DFS)
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/pedro-machado-zanette
+- Email: pedrozanette600@gmail.com
