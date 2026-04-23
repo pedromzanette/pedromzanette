@@ -6,11 +6,9 @@
 
 ---
 
-## 🚀 Tecnologias
-- Java
-- Spring Boot
-- PostgreSQL
-- Git / GitHub
+## 🚀 Tecnologias e Ferramentas
+
+![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,github,python,js,html,css,vscode,idea)
 
 ---
 
@@ -20,7 +18,3 @@
 - DirTools (recursão / DFS)
 
 ---
-
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/pedro-machado-zanette
-- Email: pedrozanette600@gmail.com
