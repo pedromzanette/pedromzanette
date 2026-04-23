@@ -15,5 +15,6 @@
 📌 Projetos em destaque
 
 - [DirTools (recursão / DFS)](https://github.com/pedromzanette/dirtools-java.git)
+- [Self-Service Ordering System (JavaFX)](https://github.com/pedromzanette/Self-Service-Ordering-System-JavaFX-MVC-Project-)
 
 ---
