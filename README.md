@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro!
+# Pedro Zanette!
 
 🎓 Estudante de Ciência da Computação (Feevale)  
 💻 Focado em desenvolvimento Back-end  
